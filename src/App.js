@@ -15,19 +15,19 @@ const DUMMY_EXPENSES = [
     id: 'e2',
     title: 'BPJS',
     amount: 300.000,
-    date: new Date(2022, 4, 27)
+    date: new Date(2022, 5, 27)
   },
   {
     id: 'e3',
     title: 'Tagihan Listrik',
     amount: 400.000,
-    date: new Date(2022, 4, 27)
+    date: new Date(2020, 6, 27)
   },
   {
     id: 'e4',
     title: 'Internet',
     amount: 500.000,
-    date: new Date(2022, 4, 27)
+    date: new Date(2020, 6, 27)
   },
 ]
 
